@@ -13,7 +13,7 @@ Install more malware
 
 Control the system as if they were the user
 
-🛑 It’s often spread through phishing emails, fake software downloads, or exploits, and is illegal to use without permission.
+ It’s often spread through phishing emails, fake software downloads, or exploits, and is illegal to use without permission.
 
 # Discalimer
 The code and techniques provided in this article are intended for educational purposes only. They are designed to help individuals understand the underlying principles of cybersecurity, ethical hacking, and software development. Under no circumstances should the information or code be used for unauthorized access, illegal hacking, or any activities that violate the law.
